@@ -105,7 +105,7 @@ const handleMultiplyNumbers =() => {
       <Content>
         <Input value={currentNumber}/>
         <Row>
-        <Button label="c" onClick={handleOnClear}/>
+        <Button label="C" onClick={handleOnClear}/>
         </Row>
         <Row>
           <Button label="7" onClick={() => handleAddNumber('7')}/>
