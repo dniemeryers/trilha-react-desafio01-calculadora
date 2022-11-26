@@ -4,6 +4,7 @@ export const Container = styled.div`
     width: 100%;
     height: 100vh;
     background-color: #CACACA;
+   
 
     display: flex;
     align-items: center;
@@ -14,6 +15,7 @@ export const Container = styled.div`
 export const Content = styled.div`
     background-color: #FFFFFF;
     width: 50%;
+    border: 3px solid #190000;
 `
 
 export const Row = styled.div`
