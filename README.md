@@ -17,7 +17,7 @@
 <br>
 
 <h2 align="center"> Acesso ao projeto </h2>
-<p> Você pode acessar o projeto final clicando aqui: https://lista-de-tarefas-snowy.vercel.app/ </p>
+<p> Você pode acessar o projeto final clicando aqui: https://dniemeryers.github.io/trilha-react-desafio01-calculadora/ </p>
 <br>
 <h2 align="center">  Tecnologias utilizadas </h2>
 
