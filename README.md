@@ -30,7 +30,6 @@
 <br>
 <h2 align="center"> Pessoas desenvolvedoras do projeto </h2>
 
-<h2 align="center"> : heavy_check_mark : Pessoas desenvolvedoras do projeto </h2>
 
 | <img src="https://avatars.githubusercontent.com/u/102764313?s=400&u=047422d2a39301a63cf43bd6e961046c7ae76e0e&v=4" width=115><br><sub>Diego Niemeyer</sub> | <img src="https://guiadeti.com.br/wp-content/uploads/2022/01/guia-cursos-dio.png" width=115><br><sub>Dio._</sub> |
 | :---: | :---: |
