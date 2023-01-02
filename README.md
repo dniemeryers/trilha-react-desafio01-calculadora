@@ -26,7 +26,7 @@
 <br>
 <h2 align="center">  Tecnologias utilizadas </h2>
 
--  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"height="50" width="50" alt="React"/></a>
+-  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="50" width="50" alt="React"/>
 
 <h2 align="center"> Extensões utilizadas </h2>
 
