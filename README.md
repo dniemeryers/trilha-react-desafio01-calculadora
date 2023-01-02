@@ -6,7 +6,7 @@
 <br>
 
 <p>Imagem: </p>
-<p align="center"><img src=https://media.licdn.com/dms/image/C4D22AQEfDzPMFI6hBw/feedshare-shrink_800/0/1669508896142?e=1675296000&v=beta&t=kc-uoYamhh_RC2SoMSq2WcXD0zFHuzRkjZtrwKbdiP8></p>
+<p align="center"><img src="assets/pc.gif"></p>
 
 <br>
 
