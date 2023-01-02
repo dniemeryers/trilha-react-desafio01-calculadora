@@ -5,8 +5,13 @@
 
 <br>
 
-<p>Imagem: </p>
+<p>Imagem 1 Computador: </p>
 <p align="center"><img src="assets/pc.gif"></p>
+
+<br>
+
+<p>Imagem 2 Celular: </p>
+<p align="center"><img src="assets/mobile.gif"></p>
 
 <br>
 
